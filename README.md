@@ -21,8 +21,8 @@ Bu projeyi çalıştırmadan önce aşağıdaki araçların sisteminizde kurulu 
 
 ### Projeyi Klonlama  
 ```sh
-git clone https://github.com/kullaniciadi/simple-item-manager.git
-cd dockerized-nodejs-app
+git clone https://github.com/sevginuroksuz/simple-item-manager.git
+cd simple-item-manager
 ```
 
 ### Bağımlılıkları Yükleme  
@@ -53,7 +53,7 @@ Uygulamayı **localhost:3000** üzerinden ziyaret edebilirsiniz. 🎉
 ## 👤 Dosya Yapısı  
 
 ```plaintext
-📺 dockerized-nodejs-app
+📺 simple-item-manager
  ├ 📂 src
  ┃ ├ 📄 server.js          # Ana backend dosyası
  ┃ ├ 📄 database.js        # MongoDB bağlantısı

@@ -21,7 +21,7 @@ Bu projeyi çalıştırmadan önce aşağıdaki araçların sisteminizde kurulu 
 
 ### Projeyi Klonlama  
 ```sh
-git clone https://github.com/kullaniciadi/dockerized-nodejs-app.git
+git clone https://github.com/kullaniciadi/simple-item-manager.git
 cd dockerized-nodejs-app
 ```
 

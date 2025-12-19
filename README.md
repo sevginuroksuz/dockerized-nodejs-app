@@ -2,7 +2,7 @@
 
 Bu proje, Docker kullanarak bir **Node.js** uygulamasını konteynerize etmeyi göstermektedir. **MongoDB ve Redis** entegrasyonu ile modern ve taşınabilir bir geliştirme ortamı sunar.  
 
-## 📌 Proje Hakkında  
+## Proje Hakkında  
 Bu repo, **Docker ve Docker Compose** kullanarak bir **Node.js uygulamasının nasıl çalıştırılacağını** anlatmaktadır. Projede şu bileşenler bulunmaktadır:  
 - **Node.js** - Backend geliştirme  
 - **Docker & Docker Compose** - Konteyner yönetimi  
@@ -11,7 +11,7 @@ Bu repo, **Docker ve Docker Compose** kullanarak bir **Node.js uygulamasının n
 
 ---
 
-## 🛠 Kurulum  
+## Kurulum  
 
 ### Gereksinimler  
 Bu projeyi çalıştırmadan önce aşağıdaki araçların sisteminizde kurulu olması gerekmektedir:  
@@ -32,7 +32,7 @@ npm install
 
 ---
 
-## 🚀 Çalıştırma  
+## Çalıştırma  
 
 ### Docker ile Çalıştırma  
 Docker kullanarak tüm servisleri başlatmak için:  
@@ -50,10 +50,10 @@ Uygulamayı **localhost:3000** üzerinden ziyaret edebilirsiniz. 🎉
 
 ---
 
-## 👤 Dosya Yapısı  
+## Dosya Yapısı  
 
 ```plaintext
-📺 simple-item-manager
+ simple-item-manager
  ├ 📂 src
  ┃ ├ 📄 server.js          # Ana backend dosyası
  ┃ ├ 📄 database.js        # MongoDB bağlantısı
@@ -67,10 +67,10 @@ Uygulamayı **localhost:3000** üzerinden ziyaret edebilirsiniz. 🎉
 
 ---
 
-## 📝 Lisans  
+## Lisans  
 Bu proje **MIT Lisansı** ile sunulmaktadır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.  
 
 ---
 
-🚀 **Projeyi beğendiyseniz, ⭐ vererek destek olabilirsiniz!**  
+**Projeyi beğendiyseniz, ⭐ vererek destek olabilirsiniz!**  
 

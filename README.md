@@ -1,3 +1,4 @@
+[🇹🇷 Türkçe](README.md) | [🇬🇧 English](README.en.md)
 # 🐳 Dockerized Node.js App  
 
 Bu proje, Docker kullanarak bir **Node.js** uygulamasını konteynerize etmeyi göstermektedir. **MongoDB ve Redis** entegrasyonu ile modern ve taşınabilir bir geliştirme ortamı sunar.  

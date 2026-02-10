@@ -1,5 +1,4 @@
-# Ergin Warehouse Management App
-
+# dockerized-nodejs-app
 🌍 Please select a language / Lütfen bir dil seçin:
 
 - 🇹🇷 [Türkçe](README.tr.md)
